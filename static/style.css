@@ -7,3 +7,8 @@ body {
 p {
     color: #f72d2d;
 }
+
+.btn-sm {
+    background-color:indianred;
+    border-color: indianred;
+}
